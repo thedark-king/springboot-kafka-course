@@ -1,0 +1,4 @@
+/Users/ravi/projects/springboot-kafka-realworld-project/kafka-producer-wikimedia/src/main/java/com/learnwithravi/SpringBootProducerApplication.java
+/Users/ravi/projects/springboot-kafka-realworld-project/kafka-producer-wikimedia/src/main/java/com/learnwithravi/configuration/KafkaConfiguration.java
+/Users/ravi/projects/springboot-kafka-realworld-project/kafka-producer-wikimedia/src/main/java/com/learnwithravi/kafka/WikimediaChangesHandler.java
+/Users/ravi/projects/springboot-kafka-realworld-project/kafka-producer-wikimedia/src/main/java/com/learnwithravi/kafka/WikimediaChangesProducer.java

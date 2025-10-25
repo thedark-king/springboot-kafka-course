@@ -1,0 +1,4 @@
+com/learnwithravi/configuration/KafkaConfiguration.class
+com/learnwithravi/SpringBootProducerApplication.class
+com/learnwithravi/kafka/WikimediaChangesHandler.class
+com/learnwithravi/kafka/WikimediaChangesProducer.class
