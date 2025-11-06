@@ -1,0 +1,11 @@
+/Users/ravi/projects/orderProducer/src/main/java/com/learnwithravi/orderproducer/DTO/Order.java
+/Users/ravi/projects/orderProducer/src/main/java/com/learnwithravi/orderproducer/DTO/Truck.java
+/Users/ravi/projects/orderProducer/src/main/java/com/learnwithravi/orderproducer/OrderCallback.java
+/Users/ravi/projects/orderProducer/src/main/java/com/learnwithravi/orderproducer/OrderProducerApplication.java
+/Users/ravi/projects/orderProducer/src/main/java/com/learnwithravi/orderproducer/TruckAssignmentProducer.java
+/Users/ravi/projects/orderProducer/src/main/java/com/learnwithravi/orderproducer/avro/Order.java
+/Users/ravi/projects/orderProducer/src/main/java/com/learnwithravi/orderproducer/avro/Truck.java
+/Users/ravi/projects/orderProducer/src/main/java/com/learnwithravi/orderproducer/avroserializer/AvroOrderProducerApplication.java
+/Users/ravi/projects/orderProducer/src/main/java/com/learnwithravi/orderproducer/avroserializer/GenericAvroOrderProducerApplication.java
+/Users/ravi/projects/orderProducer/src/main/java/com/learnwithravi/orderproducer/customdeserializeer/OrderSerializer.java
+/Users/ravi/projects/orderProducer/src/main/java/com/learnwithravi/orderproducer/customdeserializeer/TruckSerializer.java

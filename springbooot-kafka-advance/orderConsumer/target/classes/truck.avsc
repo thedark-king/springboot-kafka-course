@@ -1,0 +1,19 @@
+{
+  "namespace": "com.learnwithravi.orderproducer.avro",
+  "type": "record",
+  "name": "Truck",
+  "fields": [
+    {
+      "name": "Id",
+      "type": "string"
+    },
+    {
+      "name": "latitude",
+      "type": "string"
+    },
+    {
+      "name": "longitude",
+      "type": "string"
+    }
+  ]
+}
