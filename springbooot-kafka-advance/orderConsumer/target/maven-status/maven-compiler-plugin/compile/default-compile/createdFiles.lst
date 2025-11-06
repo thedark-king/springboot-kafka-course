@@ -1,0 +1,15 @@
+com/learnwithravi/orderconsumer/DTO/Order.class
+com/learnwithravi/avro/Order.class
+com/learnwithravi/orderproducer/avro/Truck.class
+com/learnwithravi/orderproducer/avro/Truck$Builder.class
+com/learnwithravi/orderconsumer/customeDeserializer/OrderDeserializer.class
+com/learnwithravi/orderconsumer/avarideserializer/AvroOrderConsumerApplication.class
+com/learnwithravi/orderproducer/avro/Order.class
+com/learnwithravi/orderconsumer/OrderConsumerApplication.class
+com/learnwithravi/orderconsumer/customeDeserializer/TruckDeserializer.class
+com/learnwithravi/orderconsumer/avarideserializer/AvroTruckConsumerApplication.class
+com/learnwithravi/avro/Order$Builder.class
+com/learnwithravi/orderconsumer/TruckAssignmentConsumer.class
+com/learnwithravi/orderconsumer/avarideserializer/GenericAvroOrderConsumerApplication.class
+com/learnwithravi/orderproducer/avro/Order$Builder.class
+com/learnwithravi/orderconsumer/DTO/Truck.class
